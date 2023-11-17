@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratikraut5530" alt="pratikraut5530" /></a> </p>
 
-- 🔭 I’m currently working on Data Structures and Algorithms **Pune Metro Fare Calculator**
+- 🔭 I’m currently working on Data Structures and Algorithms
 
-- 🌱 I’m currently learning Backend Development **Nodejs**
+- 🌱 I’m currently learning Machine Learning
 
 - 📫 How to reach me **pratikraut5630@gmail.com**
 
